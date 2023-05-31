@@ -1,4 +1,4 @@
-package org.pay;
+package com.pay.poll;
 
 import org.quartz.*;
 import org.quartz.impl.StdSchedulerFactory;

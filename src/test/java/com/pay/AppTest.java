@@ -1,4 +1,4 @@
-package org.pay;
+package com.pay;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

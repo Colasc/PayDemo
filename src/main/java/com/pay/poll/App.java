@@ -1,4 +1,4 @@
-package org.pay;
+package com.pay.poll;
 
 /**
  * Hello world!
